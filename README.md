@@ -1,2 +1,2 @@
 # Text-editor
-Text editor
+Java Text editor
